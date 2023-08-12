@@ -1,4 +1,4 @@
-## Olá! Eu sou o Juan Soares 🍃
+## Olá! Eu sou o Juan Soares 🍀
 
 ![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojuansoares&show_icons=true&theme=merko) 
 
