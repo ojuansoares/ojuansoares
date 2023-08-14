@@ -4,6 +4,14 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ojuansoares&bg_color=0d1117&color=4e9e4c&line=5a9e4c&point=3f413e&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ojuansoares&theme=matrix&row=1&no-bg=true&column=6&margin-w=15&margin-h=15"/>
+</p>
+
+<br>
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ojuansoares&show_icons=true&count_private=true&hide_border=true&title_color=228B22&icon_color=228B22&text_color=c9d1d9&bg_color=0d1117" alt="Juan Soares github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojuansoares&layout=compact&hide_border=true&title_color=228B22&text_color=228B22&bg_color=0d1117" />
