@@ -6,24 +6,14 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ojuansoares&theme=matrix&row=1&no-bg=true&column=6&margin-w=15&margin-h=15"/>
-</p>
-
-<br>
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ojuansoares&show_icons=true&count_private=true&hide_border=true&title_color=228B22&icon_color=228B22&text_color=c9d1d9&bg_color=0d1117" alt="Juan Soares github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojuansoares&layout=compact&hide_border=true&title_color=228B22&text_color=228B22&bg_color=0d1117" />
-</div>
-<br>
-
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UCO-EUfihFUpW2RLiO3mSoug" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/ojuansoares" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:juan.garcia.soares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ojuansoares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<br>
 
 ### Main skills:
 
