@@ -25,22 +25,12 @@
 
 
 <div align="center">
-    <h1>Main Skills:</h1>
+    <h1>Languages | Frameworks | Tools</h1>
 </div>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,python,javascript,typescript,react" />
-  </a>
-</p>
-
-<div align="center">
-    <h1>Studying at this moment:</h1>
-</div>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://skillicons.dev/icons?i=git,python,vscode,github,javascript,typescript,html,css,react,linux,figma,java,nodejs,mysql" />
   </a>
 </p>
 
