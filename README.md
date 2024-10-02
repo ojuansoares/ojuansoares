@@ -37,4 +37,6 @@
 </div>
 <br>
 
+[![Juan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ojuansoares&theme=github-compact&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=footer"/>
