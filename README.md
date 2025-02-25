@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32CD32&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Juan+Soares;I'm+21+years+old;I'm+a+Software+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ojuansoares&theme=matrix&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
-</p>
-
 <br>
 
 <div align="center">  
