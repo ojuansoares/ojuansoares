@@ -1,4 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=header"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,python,vscode,github,javascript,typescript,html,css,react,linux,figma,java,nodejs,mysql" />
+  </a>
+</p>
+
+<br>
+
+![Image](https://github.com/user-attachments/assets/f1595d4a-b223-4edd-b56c-3f5675ffae9f)
+
+<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32CD32&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Juan+Soares;I'm+22+years+old;I'm+a+Software+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -16,21 +26,3 @@
   <a href = "mailto:juan.garcia.soares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ojuansoares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-<br>
-
-
-<div align="center">
-    <h1>Languages | Frameworks | Tools</h1>
-</div>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,vscode,github,javascript,typescript,html,css,react,linux,figma,java,nodejs,mysql" />
-  </a>
-</p>
-
-</div>
-<br>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=footer"/>
