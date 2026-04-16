@@ -6,11 +6,11 @@
 
 <br>
 
-![Image](https://github.com/user-attachments/assets/f1595d4a-b223-4edd-b56c-3f5675ffae9f)
+![Image](https://github.com/user-attachments/assets/bb09aa4a-5c13-4e03-8b11-b1469840dfeb)
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF56C3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Juan+Soares;I'm+22+years+old;I'm+a+Software+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Juan+Soares;I'm+22+years+old;I'm+a+Software+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br>
 
