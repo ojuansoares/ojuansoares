@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,vscode,github,javascript,typescript,html,css,react,linux,figma,java,nodejs,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,mongodb,react,linux,figma,docker,java,nodejs,mysql,supabase" />
   </a>
 </p>
 
@@ -15,7 +15,6 @@
 <br>
 
 <div align="center"> 
-  <a href="https://www.instagram.com/ojuansoares" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:juan.garcia.soares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ojuansoares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
